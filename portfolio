@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GAGGUTURU LILLYSHA BEGUM | Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f7f9fc; color: #333; }
+        header { background: #4CAF50; color: white; padding: 20px; text-align: center; }
+        nav { text-align: center; margin: 20px 0; }
+        nav a { margin: 0 15px; color: #4CAF50; text-decoration: none; font-weight: bold; }
+        section { padding: 20px; max-width: 1000px; margin: auto; background: white; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        footer { text-align: center; padding: 10px; background: #ddd; }
+        h2 { color: #4CAF50; }
+        ul { line-height: 1.6; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>GAGGUTURU LILLYSHA BEGUM</h1>
+    <p><a href="mailto:gagguturulillyshabegum@gmail.com">gagguturulillyshabegum@gmail.com</a> | +91 9989071208 | <a href="https://www.linkedin.com/in/lillysha-begum-gagguturu" target="_blank">LinkedIn</a></p>
+</header>
+
+<nav>
+    <a href="#Skills">Skills</a>
+    <a href="#Education">Education</a>
+    <a href="#Certifications">Certifications</a>
+    <a href="#Projects">Projects</a>
+    <a href="#Achievements">Achievements</a>
+    <a href="#Strengths">Strengths</a>
+</nav>
+
+<section id="Skills">
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Programming Languages: Basic in Python, Java</li>
+        <li>Database: MySQL</li>
+        <li>Web Technologies: HTML, CSS</li>
+        <li>Operating Systems: Windows</li>
+        <li>Tools: VS Code, Eclipse, GitHub</li>
+        <li>Skills: Cloud Computing</li>
+        <li>Areas of Interest: SDLC Models (Waterfall, V&V, Agile, Prototype), Networking & OS, OOPS</li>
+        <li>Miscellaneous Skills: MS-Office, JavaScript</li>
+    </ul>
+</section>
+
+<section id="Education">
+    <h2>Education</h2>
+    <p><strong>Bachelor of Technology – Computer Science and Engineering</strong> (2023)<br>Gates Institute of Technology - Gooty<br>Percentage - 70%</p>
+    <p><strong>Intermediate - MPC (Maths, Physics, Chemistry)</strong> (2019)<br>Sri Chaitanya Jr. College - Kurnool<br>Percentage - 81.5%</p>
+    <p><strong>SSC</strong> (2017)<br>A.V.R E.M School - Gooty<br>Percentage - 95%</p>
+</section>
+
+<section id="Certifications">
+    <h2>Certifications</h2>
+    <ul>
+        <li>Completed PGDCA</li>
+        <li>AWS in Coursera</li>
+        <li>Aruba Networking in Coursera</li>
+        <li>Python Basic in Coursera</li>
+        <li>Certification of Participation in 1Stop</li>
+    </ul>
+</section>
+
+<section id="Projects">
+    <h2>Projects</h2>
+    <h3>Traffic Sign Recognition</h3>
+    <ul>
+        <li>Developed a system to detect and recognize traffic signs from vehicle camera images.</li>
+        <li>Implemented Convolutional Neural Networks (CNN) for enhanced accuracy.</li>
+        <li>Technologies Used: UML, PIL Library, Keras, CNN, OpenCV, Python.</li>
+    </ul>
+    <h3>Digital Clock</h3>
+    <ul>
+        <li>Designed and developed a digital clock with real-time updating using JavaScript.</li>
+        <li>Enhanced UI with CSS animations and customizable features.</li>
+        <li>Technologies Used: HTML, CSS, JavaScript.</li>
+        <li><a href="https://github.com/lillysha/Digital-Time" target="_blank">View Project on GitHub</a></li>
+    </ul>
+</section>
+
+<section id="Achievements">
+    <h2>Achievements</h2>
+    <ul>
+        <li>Certified in Graduation of ABACUS</li>
+        <li>Medals and Trophies in National and District level ABACUS Competitions</li>
+        <li>Medal in Maths Olympiad</li>
+    </ul>
+</section>
+
+<section id="Strengths">
+    <h2>Strengths</h2>
+    <ul>
+        <li>Adaptable to new environments quickly</li>
+        <li>Passionate about work</li>
+        <li>Curious to learn new technologies</li>
+        <li>Strong communication skills</li>
+    </ul>
+</section>  
+
+<footer>
+    <p>&copy; 2025 GAGGUTURU LILLYSHA BEGUM. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
